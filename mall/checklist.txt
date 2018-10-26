@@ -15,3 +15,5 @@
 ¨ÏLogin.doGet-> ¨ÙMemberDao.login() -> success:¨Ïindex / fail:¨Ïlogin 
 
 6.
+
+7.
