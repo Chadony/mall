@@ -13,3 +13,5 @@
 ⓒLogin.doGet-> ⓜlogin.jsp
 5. 로그인 액션
 ⓒLogin.doGet-> ⓜMemberDao.login() -> success:ⓒindex / fail:ⓒlogin 
+
+6.
